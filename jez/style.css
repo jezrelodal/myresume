@@ -1,0 +1,37 @@
+body{
+	padding: 200px;
+	text-align: center;
+	font-family: verdana;
+	padding-top: 10px;
+	
+}
+.wide{
+	width: 100%;
+	
+}
+.innerwide{
+	width: 50%;
+	float: left;
+	display: inline;
+	text-align: left;
+
+
+}
+img{
+	width: 30%;
+	margin: 20px;
+}
+.b{
+	font-weight: bolder;
+}
+p{
+	text-align: left;
+	margin-top: 20px;
+}
+li{
+	text-align: left;
+	margin-top: 15px;
+}
+hr{
+	margin-top: 30px;
+}
